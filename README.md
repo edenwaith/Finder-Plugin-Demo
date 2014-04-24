@@ -13,3 +13,4 @@ Finder-Plugin-Demo
 **Wish list TODO**
 - Inject the plug-in bundle using SIMBL
 - Add privileged helper utilities for the injection
+- Toolbar button
